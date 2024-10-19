@@ -33,4 +33,4 @@ resource "aws_iam_role" "lambda_role" {
 # Attach policies to the role as needed
 
 # Lambda Function Configuration
-# Upload your Lambda function code package to S3 or reference local file
+# Upload Lambda function code package to S3

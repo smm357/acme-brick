@@ -12,7 +12,7 @@ module "rds" {
   allocated_storage    = 20
   max_allocated_storage = 100
 
-  name     = "acme_db"
+  db_name  = "acme_db"
   username = "admin"
   password = var.db_password
 

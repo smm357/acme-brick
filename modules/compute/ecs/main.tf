@@ -24,7 +24,7 @@ resource "aws_ecs_task_definition" "task" {
   container_definitions = jsonencode([
     {
       name      = "app"
-      image     = "your-docker-image"
+      image     = "acme-bricks-docker-image"
       cpu       = 256
       memory    = 512
       essential = true

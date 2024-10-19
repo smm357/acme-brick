@@ -83,5 +83,5 @@ resource "aws_iam_instance_profile" "ec2_profile" {
 
 # Attach policies to the role as needed
 
-# User data script (user_data.sh)
-# Place your bootstrap script here
+# Add user data script (user_data.sh)
+
