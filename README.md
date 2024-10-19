@@ -1,5 +1,7 @@
 # acme-brick
 
+The proposal documentation is acme_bricks_proposal.pdf
+
 ## Requirements
 
 | Name | Version |
