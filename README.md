@@ -1,6 +1,10 @@
 # acme-brick
 
-The proposal documentation is acme_bricks_proposal.pdf
+This terraform stack represents the initial VPC networking, compute, database, storage, and security components of an AWS account configured for Acme Bricks.  More components can be added (or removed) on a per account basis depending on the purpose of the account.
+
+The proposal documentation is located in ```acme_bricks_proposal.pdf```.
+
+The AWS Account Diagram is located in ```acme_bricks_diagram.pdf```.
 
 ## Requirements
 
